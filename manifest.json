@@ -1,8 +1,8 @@
 {
-  "latest_version": "0.1.1",
-  "download_url": "https://github.com/baguvics/ROGII-Agent/releases/download/v0.1.1/rogi-agent-0.1.1.exe",
-  "sha256": "0bd98338072025a83a7b87c5e6c2ad4b438e98fd268e0db41e0084e41d8696ee",
-  "size_bytes": 48754092,
+  "latest_version": "0.1.2",
+  "download_url": "https://github.com/baguvics/ROGII-Agent/releases/download/v0.1.2/rogi-agent-0.1.2.exe",
+  "sha256": "cd32c0ef8ce4c90191c7ba73554dec2d31f78268527b0844c01c7dcdb6808da6",
+  "size_bytes": 48754775,
   "release_date": "2026-04-28",
   "changelog": [
     "Первая версия с механизмом автообновления."
